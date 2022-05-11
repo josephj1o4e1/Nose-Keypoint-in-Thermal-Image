@@ -16,5 +16,5 @@ The command line should be like: python train_nosedetection.py --datasetroot "pa
 The dataset should be constructed as an "Input" folder and "Target" folder, which they are image.png-target.json pairs for supervised learning.  
 Our dataset is from the paper: ["A Thermal Infrared Face Database With Facial Landmarks and Emotion Labels"](https://www.lfb.rwth-aachen.de/bibtexupload/pdf/KCZ18h.pdf) by Marcin Kopaczka, Raphael Kolk  
 
-An example of our model output. 
+An example of our model output.  
 ![nosedetectresult](/images/resultimage.png)
