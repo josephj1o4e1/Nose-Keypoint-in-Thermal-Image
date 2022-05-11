@@ -17,6 +17,4 @@ The dataset should be constructed as an "Input" folder and "Target" folder, whic
 Our dataset is from the paper: ["A Thermal Infrared Face Database With Facial Landmarks and Emotion Labels"](https://www.lfb.rwth-aachen.de/bibtexupload/pdf/KCZ18h.pdf) by Marcin Kopaczka, Raphael Kolk  
 
 
-
-
-
+![nosedetectresult](/images/resultimage.png)
